@@ -1,5 +1,5 @@
 <p>
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat""/>
+    <img height="30" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat""/>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
